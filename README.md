@@ -49,13 +49,13 @@ The dataset used contains information on Airbnb listings in Albany, NY, includin
 ## Key Findings
 
 - **Room Type:** Entire homes/apartments are the most expensive listings, with an average price of $140, compared to $90 for private rooms and $60 for shared rooms.
-  ![Average Price by Room Type](outputs/average_price_by_room_type.png)
+  ![Average Price by Room Type](outputs/Average price by room type.png)
 
 - **Reviews:** Listings with frequent reviews (over 5 per month) tend to have higher prices, averaging $150 compared to $110 for listings with fewer reviews.
-  ![Reviews vs Price](outputs/reviews_vs_price.png)
+  ![Reviews vs Price](outputs/Reviews vs price.png)
 
 - **Location Trends:** Downtown Albany has the highest average price of $180, while suburban neighborhoods like Arbor Hill average $85.
-  ![Average Price by Neighborhood](outputs/average_price_by_neighborhood.png)
+  ![Average Price by Neighborhood](outputs/Average price per neighbourhood .png)
 
 ## Results
 
