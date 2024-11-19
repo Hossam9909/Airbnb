@@ -49,13 +49,13 @@ The dataset used contains information on Airbnb listings in Albany, NY, includin
 ## Key Findings
 
 - **Room Type:** Entire homes/apartments are the most expensive listings, with an average price of $140, compared to $90 for private rooms and $60 for shared rooms.
-  ![Average Price by Room Type](outputs/Average price by room type.png)
+  ![Average Price by Room Type](outputs/Average_price_by_room_type.png)
 
 - **Reviews:** Listings with frequent reviews (over 5 per month) tend to have higher prices, averaging $150 compared to $110 for listings with fewer reviews.
-  ![Reviews vs Price](outputs/Reviews vs price.png)
+  ![Reviews vs Price](outputs/Reviews_vs_price.png)
 
 - **Location Trends:** Downtown Albany has the highest average price of $180, while suburban neighborhoods like Arbor Hill average $85.
-  ![Average Price by Neighborhood](outputs/Average price per neighbourhood .png)
+  ![Average Price by Neighborhood](outputs/Average_price_per_neighbourhood.png)
 
 ## Results
 
@@ -76,12 +76,20 @@ The dataset used contains information on Airbnb listings in Albany, NY, includin
 
 ## Repository Structure
 
-- **README.md:** Project overview.
-- **requirements.txt:** Project dependencies.
+- **README.md:** Project overview and instructions.
+- **requirements.txt:** Dependencies for the project.
+- **outputs/:** Contains the saved visualization images:
+  - `outputs/`: Folder containing all visualizations, e.g.:
+    - `Average_price_by_room_type.png`
+    - `Reviews_vs_price.png`
+- **notebooks/:**
+  - `Airbnb.ipynb`: Combined EDA and modeling notebook.
+- **LICENSE:** License details for the dataset.
+
 
 ## How to Run
 
-1. `git clone <https://github.com/Hossam9909/Airbnb2.git>`
+1. `git clone <https://github.com/Hossam9909/Airbnb.git>`
 2. `pip install -r requirements.txt`
 3. `jupyter notebook` and open the notebooks in the `notebooks/` directory.
 
