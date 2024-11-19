@@ -76,7 +76,6 @@ The dataset used contains information on Airbnb listings in Albany, NY, includin
 
 ## Repository Structure
 
-- **data/:** Dataset.
 - **README.md:** Project overview.
 - **requirements.txt:** Project dependencies.
 
