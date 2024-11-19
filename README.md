@@ -78,13 +78,15 @@ The dataset used contains information on Airbnb listings in Albany, NY, includin
 
 - **README.md:** Project overview and instructions.
 - **requirements.txt:** Dependencies for the project.
-- **outputs/:** Contains the saved visualization images:
+- **data/:** Contains the dataset and saved visualization images:
+  - `listings.csv`: The primary dataset.
   - `outputs/`: Folder containing all visualizations, e.g.:
     - `Average_price_by_room_type.png`
     - `Reviews_vs_price.png`
 - **notebooks/:**
   - `Airbnb.ipynb`: Combined EDA and modeling notebook.
 - **LICENSE:** License details for the dataset.
+
 
 
 ## How to Run
