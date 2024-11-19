@@ -97,6 +97,10 @@ The dataset used contains information on Airbnb listings in Albany, NY, includin
 
 - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Tabulate
 
+## Blog link
+
+https://medium.com/@hossam.hassan.salama/what-factors-influence-airbnb-listing-prices-3318e43d5e61  
+
 ## Acknowledgments
 
 Thanks to the data providers and open-source community.  Inspired by publicly available Airbnb data.
